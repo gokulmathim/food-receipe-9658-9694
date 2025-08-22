@@ -1,1 +1,3 @@
-# food-receipe-9658-9694
+# Project Repository
+
+This is the initial README file for the project.
